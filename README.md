@@ -1,5 +1,3 @@
 # Auto-Download-links
-Detecte les liens de telechargements d'une url et lance les telechargements de maniere automatique
-en cours de dev pas encore dynamique et parfaitement automatique (reste coder en dure) 
-
-Fait le 16 juin 2026
+Détecte et télécharge automatiquement les liens d’une URL (en cours de développement : implémentation statique pour l’instant).
+Date : 16 juin 2026.
